@@ -41,6 +41,8 @@ using Python-based optimization techniques.
 
 ### OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/a43fdcdc-0484-464d-81f0-b2f33e93300f)
+
 
 
 
